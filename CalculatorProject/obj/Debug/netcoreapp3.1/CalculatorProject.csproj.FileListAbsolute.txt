@@ -1,0 +1,9 @@
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.csprojAssemblyReference.cache
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.AssemblyInfoInputs.cache
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.AssemblyInfo.cs
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.deps.json
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.dll
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.pdb
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.dll
+C:\Users\Matthew\ConsoleCalculatorSolution\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.pdb
